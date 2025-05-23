@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        2025 Chuanbo Hua | Korea Advanced Institute of Science & Technology (KAIST) | Last Update: 04/16/2025
+                        2025 Chuanbo Hua | Korea Advanced Institute of Science & Technology (KAIST) | Last Update: 05/23/2025
                     </div>
                 </div>
             </div>
